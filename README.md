@@ -1,2 +1,0 @@
-# consoleApplication
-Add ConsoleApplication
